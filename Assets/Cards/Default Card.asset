@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Default Card
   m_EditorClassIdentifier: 
   Icon: {fileID: 0}
-  Prefab: {fileID: 0}
-  Cost: 0
+  Prefab: {fileID: 2598055072813556413, guid: 0a3b7ee4145fe1e4a9ac11b01077e013, type: 3}
+  Cost: 2

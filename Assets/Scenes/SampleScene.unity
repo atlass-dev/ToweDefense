@@ -298,7 +298,50 @@ MonoBehaviour:
   _card: {fileID: 9084149897614883838, guid: b69cecd195b74224e9d0828cadc5b66d, type: 3}
   _cardSO:
   - {fileID: 11400000, guid: 0beeb41c1ea793440aae84c6fa8a3bf2, type: 2}
-  - {fileID: 11400000, guid: ee30622cf878efe4a85edc65cec0ec3a, type: 2}
+  - {fileID: 11400000, guid: ef78ff2669de0714bb1a2e7526019f30, type: 2}
+--- !u!1 &627847212
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 627847214}
+  - component: {fileID: 627847213}
+  m_Layer: 0
+  m_Name: Grid Controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &627847213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 627847212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50338929e5cf21d44b66f044ed49df49, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &627847214
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 627847212}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.83067036, y: 7.341353, z: -2.6865618}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
